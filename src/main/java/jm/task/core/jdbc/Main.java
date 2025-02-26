@@ -1,6 +1,6 @@
 package jm.task.core.jdbc;
 
-import jm.task.core.jdbc.dao.HibernateUtil;
+import jm.task.core.jdbc.util.HibernateUtil;
 import jm.task.core.jdbc.service.UserServiceImpl;
 
 public class Main {
